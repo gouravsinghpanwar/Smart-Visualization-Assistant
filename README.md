@@ -11,17 +11,6 @@ A rule-based desktop application that **automatically analyzes any CSV/Excel dat
 
 ---
 
-## 🖥️ Demo
-
-> Upload any CSV or Excel file → Click "Analyze & Visualize" → Get an instant chart with explanation
-
-![App Screenshot](screenshots/app_ui.png)
-![Output Chart](screenshots/scatter_output.png)
-
-*(Add your own screenshots here)*
-
----
-
 ## ⚙️ How It Works — Decision Engine
 
 The system applies 4 smart rules based on dataset structure:
