@@ -113,10 +113,3 @@ python data_analyzer.py
 `Python` `Tkinter` `Pandas` `Matplotlib`
 
 ---
-
-## 📬 Contact
-
-**Gourav Singh Panwar**
-Student ID: AU23B1009
-📧 *[Add your email here]*
-🔗 *[Add your LinkedIn here]*
